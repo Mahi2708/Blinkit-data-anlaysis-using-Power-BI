@@ -36,4 +36,4 @@ This analysis provides insights into Blinkit's sales trends, product performance
 This Power BI dashboard enables stakeholders to explore Blinkit's performance dynamically, enhancing decision-making through data visualization.
 
 ---
-Feel free to refine it based on your specific dataset or analysis focus. Would you like to incorporate LaTeX formatting for documentation consistency?  
+Feel free to refine it based on your specific dataset or analysis focus. 
